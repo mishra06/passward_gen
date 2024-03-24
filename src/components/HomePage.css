@@ -1,0 +1,9 @@
+.generate{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.input_sec > input{
+    outline: none;
+}
